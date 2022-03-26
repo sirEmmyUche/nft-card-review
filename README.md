@@ -1,2 +1,2 @@
-# FrontEnd-Design
- NFT preview card component using Vanilla CSS (Flexbox and Responsive) HTML CSS
+#Project portfolios
+This is a collection of several solutions to projects built.
