@@ -16,8 +16,8 @@ html,body{
 	border-radius: 3%;
 	padding: 2rem;
 	height: fit-content;
-	max-width: 500px;
-	margin: auto;
+	max-width: 300px;
+	margin: 100px auto;
 	display:flex;
 	flex-direction: column;
 }
@@ -36,11 +36,11 @@ html,body{
 
 p{
 	font-weight: bold;
-	font-size: 1vw;
+	font-size: 10px;
 }
 
 span{
-	font-size: 1vw;
+	font-size: 10px;
 	color: #687289;
 }
 
@@ -61,7 +61,7 @@ img{
 
 a{	color:#fff;
 	text-decoration: none;
-	font-size: 1vw;
+	font-size: 10px;
 }
 
 a:hover{
@@ -72,7 +72,7 @@ a:active{
 }
 
 .creation{
-	margin-left: 2rem;
+	margin-left: 1rem;
 }
 
 
